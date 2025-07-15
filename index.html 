@@ -288,7 +288,7 @@ Farida Rahman: Hizmet çok hızlıydı. 🇧🇩  
     margin: auto !important;
   }
   .footer-reviews marquee {
-  font-size: 32px !important;
+  font-size: 80px !important;
 }
 }
   .footer-whatsapp img {

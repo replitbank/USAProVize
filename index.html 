@@ -1,127 +1,149 @@
 <!-- Footer Alanı -->
 <footer class="footer-container" style="background-color: #1c1f2b; padding: 40px 20px;">
-  <div class="footer-header" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; background-color: #003366; padding: 20px; border-radius: 12px;">
-  <img src="public/images/logo.png" alt="USAPro Vize Logo" class="footer-logo" style="width: 100px; height: auto;">
+  <div class="footer-header" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; background: linear-gradient(135deg, #ff512f, #dd2476); padding: 20px; border-radius: 12px;">
+  <img src="public/images/<img src="public/images/logo.png" alt="USAPro Vize Logo" class="footer-logo" style="width: 100px; height: auto;">
   <span style="font-size: 24px; font-weight: bold; color: #ffffff;">USAPro Vize Consulting LLC</span>
 </div>
 
 <div class="footer-buttons" style="margin-top: 20px; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <a href="/vize/amerika.html" class="country-button">🇺🇸 Amerika Vizeleri</a>
-  <a href="/vize/ingiltere.html" class="country-button">🇬🇧 İngiltere Vizeleri</a>
-  <a href="/vize/italya.html" class="country-button">🇮🇹 İtalya Vizeleri</a>
-  <a href="/vize/ispanya.html" class="country-button">🇪🇸 İspanya Vizeleri</a>
-  <a href="/vize/kanada.html" class="country-button">🇨🇦 Kanada Vizeleri</a>
-  <a href="/vize/avustralya.html" class="country-button">🇦🇺 Avustralya Vizeleri</a>
-  <a href="/vize/almanya.html" class="country-button">🇩🇪 Almanya Vizeleri</a>
+  <a href="/vize/amerika.html" class="country-button" style="background-color: #3c3b6e; color: white; padding: 10px 15px; border-radius: 6px;">🇺🇸 Amerika Vizeleri</a>
+  <a href="/vize/ingiltere.html" class="country-button" style="background-color: #00247d; color: white; padding: 10px 15px; border-radius: 6px;">🇬🇧 İngiltere Vizeleri</a>
+  <a href="/vize/italya.html" class="country-button" style="background-color: #008c45; color: white; padding: 10px 15px; border-radius: 6px;">🇮🇹 İtalya Vizeleri</a>
+  <a href="/vize/ispanya.html" class="country-button" style="background-color: #aa151b; color: white; padding: 10px 15px; border-radius: 6px;">🇪🇸 İspanya Vizeleri</a>
+  <a href="/vize/kanada.html" class="country-button" style="background-color: #d71a28; color: white; padding: 10px 15px; border-radius: 6px;">🇨🇦 Kanada Vizeleri</a>
+  <a href="/vize/avustralya.html" class="country-button" style="background-color: #012169; color: white; padding: 10px 15px; border-radius: 6px;">🇦🇺 Avustralya Vizeleri</a>
+  <a href="/vize/almanya.html" class="country-button" style="background-color: #000000; color: white; padding: 10px 15px; border-radius: 6px;">🇩🇪 Almanya Vizeleri</a>
 </div>
-
-
 
   <div class="footer-gallery" style="text-align: center;">
   <div class="gallery-slider">
-    <img src="public/images/1.png" alt="Görsel 1" class="fade-image">
-    <img src="public/images/2.png" alt="Görsel 2" class="fade-image">
-    <img src="public/images/3.png" alt="Görsel 3" class="fade-image">
-    <img src="public/images/4.png" alt="Görsel 4" class="fade-image">
-    <img src="public/images/5.png" alt="Görsel 5" class="fade-image">
-    <img src="public/images/6.jpg" alt="Görsel 6" class="fade-image">
-    <img src="public/images/7.jpg" alt="Görsel 7" class="fade-image">
-    <img src="public/images/8.jpg" alt="Görsel 8" class="fade-image">
-    <img src="public/images/9.jpg" alt="Görsel 9" class="fade-image">
-    <img src="public/images/10.jpg" alt="Görsel 10" class="fade-image">
-    <img src="public/images/11.jpg" alt="Görsel 11" class="fade-image">
-    <img src="public/images/12.jpg" alt="Görsel 12" class="fade-image">
-    <img src="public/images/13.jpg" alt="Görsel 13" class="fade-image">
-    <img src="public/images/14.jpg" alt="Görsel 14" class="fade-image">
-    <img src="public/images/15.jpg" alt="Görsel 15" class="fade-image">
-  </div>
+  <img src="public/images/1.png" alt="Görsel" class="fade-image" style="width: 300px; height: 200px; object-fit: cover; display: block;">
+  <img src="public/images/2.png" alt="Görsel" class="fade-image" style="width: 300px; height: 200px; object-fit: cover; display: none;">
+  <img src="public/images/3.png" alt="Görsel" class="fade-image" style="width: 300px; height: 200px; object-fit: cover; display: none;">
+  <img src="public/images/4.png" alt="Görsel" class="fade-image" style="width: 300px; height: 200px; object-fit: cover; display: none;">
+  <img src="public/images/5.png" alt="Görsel" class="fade-image" style="width: 300px; height: 200px; object-fit: cover; display: none;">
+  <img src="public/images/6.jpg" alt="Görsel" class="fade-image" style="width: 300px; height: 200px; object-fit: cover; display: none;">
+  <img src="public/images/7.jpg" alt="Görsel" class="fade-image" style="width: 300px; height: 200px; object-fit: cover; display: none;">
+  <img src="public/images/8.jpg" alt="Görsel" class="fade-image" style="width: 300px; height: 200px; object-fit: cover; display: none;">
+  <img src="public/images/9.jpg" alt="Görsel" class="fade-image" style="width: 300px; height: 200px; object-fit: cover; display: none;">
+  <img src="public/images/10.jpg" alt="Görsel" class="fade-image" style="width: 300px; height: 200px; object-fit: cover; display: none;">
+</div>
 </div>
 
 <!-- MÜŞTERİ YORUMLARI KAYAN YAZI -->
 <div class="footer-reviews">
   <marquee behavior="scroll" direction="left" scrollamount="2" style="color: #ffffff; font-size: 16px; font-weight: 500;">
-    Ahmet Yılmaz: Tüm belgelerim hazırlandı. 🇹🇷&nbsp;&nbsp;&nbsp;
-    John Smith: The team is very helpful. 🇺🇸&nbsp;&nbsp;&nbsp;
-    Ayşe Demir: Konsolosluk görüşmem sorunsuzdu. 🇹🇷&nbsp;&nbsp;&nbsp;
-    Mary Johnson: Great consultancy. 🇬🇧&nbsp;&nbsp;&nbsp;
-    Omar Hassan: Hizmetler kusursuzdu. 🇦🇪&nbsp;&nbsp;&nbsp;
-    Linda Lopez: Amazing staff! 🇲🇽&nbsp;&nbsp;&nbsp;
-    Canan Kurt: Vizem 1 haftada çıktı. 🇹🇷&nbsp;&nbsp;&nbsp;
-    Ivan Petrov: Helpful Russian support. 🇷🇺&nbsp;&nbsp;&nbsp;
-    Elif Aydın: Belgelerim hatasız hazırlandı. 🇹🇷&nbsp;&nbsp;&nbsp;
-    Thomas Müller: Schneller Service! 🇩🇪&nbsp;&nbsp;&nbsp;
-    Haruto Sato: Vize kolaylaştı. 🇯🇵&nbsp;&nbsp;&nbsp;
-    Chloé Dubois: Merci! 🇫🇷&nbsp;&nbsp;&nbsp;
-    Anna Rossi: Profesyonel ekip. 🇮🇹&nbsp;&nbsp;&nbsp;
-    Youssef Mansour: Hızlı destek aldım. 🇪🇬&nbsp;&nbsp;&nbsp;
-    Emre Can: Tavsiye ederim. 🇹🇷&nbsp;&nbsp;&nbsp;
-    Sarah Lee: Friendly staff. 🇰🇷&nbsp;&nbsp;&nbsp;
-    Nikos Papadopoulos: Harika danışmanlık! 🇬🇷&nbsp;&nbsp;&nbsp;
-    Fatma Aksoy: Vize görüşmem çok iyi geçti. 🇹🇷&nbsp;&nbsp;&nbsp;
-    George Brown: Very efficient! 🇬🇧&nbsp;&nbsp;&nbsp;
-    Aylin Karaca: Her adımda destek oldular. 🇹🇷&nbsp;&nbsp;&nbsp;
-    Mohamed Farah: Excellent experience. 🇨🇴&nbsp;&nbsp;&nbsp;
-    Jessica Wang: Süreç çok kolaydı. 🇨🇳&nbsp;&nbsp;&nbsp;
-    Mehmet Şahin: Belgeler hızlı hazırlandı. 🇹🇷&nbsp;&nbsp;&nbsp;
-    Lucas Silva: Muito bom serviço. 🇧🇷&nbsp;&nbsp;&nbsp;
-    Yasmin Elbaz: İlgi mükemmeldi. 🇲🇦&nbsp;&nbsp;&nbsp;
-    Rajesh Kumar: Very professional! 🇮🇳&nbsp;&nbsp;&nbsp;
-    Ali Can: Memnun kaldım. 🇹🇷&nbsp;&nbsp;&nbsp;
-    Hanna Schmidt: Super Unterstützung! 🇩🇪&nbsp;&nbsp;&nbsp;
-    Julia Ivanova: Helpful and kind. 🇷🇺&nbsp;&nbsp;&nbsp;
-    Ibrahim Al-Sayed: Çok iyi bir hizmet. 🇸🇦&nbsp;&nbsp;&nbsp;
-    Clara Moretti: Ottimo lavoro! 🇮🇹&nbsp;&nbsp;&nbsp;
-    James Wilson: Everything was smooth. 🇺🇸&nbsp;&nbsp;&nbsp;
-    Sofia González: Atención excelente. 🇪🇸&nbsp;&nbsp;&nbsp;
-    Melis Yıldız: Şiddetle öneriyorum. 🇹🇷&nbsp;&nbsp;&nbsp;
-    Andrew Green: Great experience. 🇬🇧&nbsp;&nbsp;&nbsp;
-    Mina Kim: Loved the process. 🇰🇷&nbsp;&nbsp;&nbsp;
-    Oğuz Demir: Harika bir ekip. 🇹🇷&nbsp;&nbsp;&nbsp;
-    Leila Haddad: Vizeyi hızlıca aldım. 🇹🇳&nbsp;&nbsp;&nbsp;
-    Jack Taylor: Thanks for your help. 🇺🇸&nbsp;&nbsp;&nbsp;
-    Ayten Kaya: Belgelerim eksiksizdi. 🇹🇷&nbsp;&nbsp;&nbsp;
-    Pavel Novak: Velmi dobrá služba. 🇨🇿&nbsp;&nbsp;&nbsp;
-    Lisa Meyer: Einfach und schnell. 🇩🇪&nbsp;&nbsp;&nbsp;
-    Denis Dubois: Bon travail. 🇫🇷&nbsp;&nbsp;&nbsp;
-    Arif Bekir: Vize süreci kolaydı. 🇹🇷&nbsp;&nbsp;&nbsp;
-    Fiona O'Connor: Fast and easy. 🇮🇪&nbsp;&nbsp;&nbsp;
-    Zahra Ali: Tavsiye ediyorum. 🇮🇷&nbsp;&nbsp;&nbsp;
-    David Cohen: Çok memnun kaldım. 🇮🇱&nbsp;&nbsp;&nbsp;
-    Cemre Arslan: Ekibiniz harika. 🇹🇷&nbsp;&nbsp;&nbsp;
-    Hassan Abbas: Good experience. 🇵🇰&nbsp;&nbsp;&nbsp;
-    Juan Pérez: Buen trato. 🇲🇽&nbsp;&nbsp;&nbsp;
-    Derya Altın: İşlemler çok hızlı. 🇹🇷&nbsp;&nbsp;&nbsp;
-    Abdul Rahman: Süreç anlaşılırdı. 🇲🇾&nbsp;&nbsp;&nbsp;
-    Isabella Cruz: Gracias por todo. 🇪🇸&nbsp;&nbsp;&nbsp;
-    Yiğit Acar: Beklentimi aştınız. 🇹🇷&nbsp;&nbsp;&nbsp;
-    Hugo Silva: Todo perfecto. 🇵🇹&nbsp;&nbsp;&nbsp;
-    Miho Tanaka: Everything clear. 🇯🇵&nbsp;&nbsp;&nbsp;
-    Nora Ivanova: Hizmet 10/10. 🇧🇬&nbsp;&nbsp;&nbsp;
-    Onur Keskin: Memnun kaldım. 🇹🇷&nbsp;&nbsp;&nbsp;
-    Dana Petrova: Çok iyi anlatım. 🇸🇰&nbsp;&nbsp;&nbsp;
-    Selim Usta: Vizeyi hemen aldım. 🇹🇷&nbsp;&nbsp;&nbsp;
-    Aliyah Omar: Thank you team! 🇲🇾&nbsp;&nbsp;&nbsp;
-    Gülşah Demir: Vize mülakatı çok iyi geçti. 🇹🇷&nbsp;&nbsp;&nbsp;
-    Jonas Eriksson: Professionell hjälp. 🇸🇪&nbsp;&nbsp;&nbsp;
-    Tania Fernandes: Muito eficiente. 🇧🇷&nbsp;&nbsp;&nbsp;
-    Bilal Yıldız: 5 yıldız hizmet. 🇹🇷&nbsp;&nbsp;&nbsp;
-    Camille Lefevre: Très bien. 🇫🇷&nbsp;&nbsp;&nbsp;
-    Yasir Khan: Thank you for support. 🇵🇰&nbsp;&nbsp;&nbsp;
-  </marquee>
+Ahmet Yılmaz: Tüm belgelerim hazırlandı. 🇹🇷  
+John Smith: The team is very helpful. 🇺🇸  
+Ayşe Demir: Konsolosluk görüşmem sorunsuzdu. 🇹🇷  
+Mary Johnson: Great consultancy. 🇬🇧  
+Omar Hassan: Hizmetler kusursuzdu. 🇦🇪  
+Linda Lopez: Amazing staff! 🇲🇽  
+Canan Kurt: Vizem 1 haftada çıktı. 🇹🇷  
+Ivan Petrov: Helpful Russian support. 🇷🇺  
+Elif Aydın: Belgelerim hatasız hazırlandı. 🇹🇷  
+Thomas Müller: Schneller Service! 🇩🇪  
+Haruto Sato: Vize kolaylaştı. 🇯🇵  
+Chloé Dubois: Merci! 🇫🇷  
+Anna Rossi: Profesyonel ekip. 🇮🇹  
+Youssef Mansour: Hızlı destek aldım. 🇪🇬  
+Emre Can: Tavsiye ederim. 🇹🇷  
+Sarah Lee: Friendly staff. 🇰🇷  
+Nikos Papadopoulos: Harika danışmanlık! 🇬🇷  
+Fatma Aksoy: Vize görüşmem çok iyi geçti. 🇹🇷  
+George Brown: Very efficient! 🇬🇧  
+Aylin Karaca: Her adımda destek oldular. 🇹🇷  
+Mohamed Farah: Excellent experience. 🇨🇴  
+Jessica Wang: Süreç çok kolaydı. 🇨🇳  
+Mehmet Şahin: Belgeler hızlı hazırlandı. 🇹🇷  
+Lucas Silva: Muito bom serviço. 🇧🇷  
+Yasmin Elbaz: İlgi mükemmeldi. 🇲🇦  
+Rajesh Kumar: Very professional! 🇮🇳  
+Ali Can: Memnun kaldım. 🇹🇷  
+Hanna Schmidt: Super Unterstützung! 🇩🇪  
+Julia Ivanova: Helpful and kind. 🇷🇺  
+Ibrahim Al-Sayed: Çok iyi bir hizmet. 🇸🇦  
+Clara Moretti: Ottimo lavoro! 🇮🇹  
+James Wilson: Everything was smooth. 🇺🇸  
+Sofia González: Atención excelente. 🇪🇸  
+Melis Yıldız: Şiddetle öneriyorum. 🇹🇷  
+Andrew Green: Great experience. 🇬🇧  
+Mina Kim: Loved the process. 🇰🇷  
+Oğuz Demir: Harika bir ekip. 🇹🇷  
+Leila Haddad: Vizeyi hızlıca aldım. 🇹🇳  
+Jack Taylor: Thanks for your help. 🇺🇸  
+Ayten Kaya: Belgelerim eksiksizdi. 🇹🇷  
+Pavel Novak: Velmi dobrá služba. 🇨🇿  
+Lisa Meyer: Einfach und schnell. 🇩🇪  
+Denis Dubois: Bon travail. 🇫🇷  
+Arif Bekir: Vize süreci kolaydı. 🇹🇷  
+Fiona O'Connor: Fast and easy. 🇮🇪  
+Zahra Ali: Tavsiye ediyorum. 🇮🇷  
+David Cohen: Çok memnun kaldım. 🇮🇱  
+Cemre Arslan: Ekibiniz harika. 🇹🇷  
+Hassan Abbas: Good experience. 🇵🇰  
+Juan Pérez: Buen trato. 🇲🇽  
+Derya Altın: İşlemler çok hızlı. 🇹🇷  
+Abdul Rahman: Süreç anlaşılırdı. 🇲🇾  
+Isabella Cruz: Gracias por todo. 🇪🇸  
+Yiğit Acar: Beklentimi aştınız. 🇹🇷  
+Hugo Silva: Todo perfecto. 🇵🇹  
+Miho Tanaka: Everything clear. 🇯🇵  
+Nora Ivanova: Hizmet 10/10. 🇧🇬  
+Onur Keskin: Memnun kaldım. 🇹🇷  
+Dana Petrova: Çok iyi anlatım. 🇸🇰  
+Selim Usta: Vizeyi hemen aldım. 🇹🇷  
+Aliyah Omar: Thank you team! 🇲🇾  
+Gülşah Demir: Vize mülakatı çok iyi geçti. 🇹🇷  
+Jonas Eriksson: Professionell hjälp. 🇸🇪  
+Tania Fernandes: Muito eficiente. 🇧🇷  
+Bilal Yıldız: 5 yıldız hizmet. 🇹🇷  
+Camille Lefevre: Très bien. 🇫🇷  
+Yasir Khan: Thank you for support. 🇵🇰  
+Amina Bashir: Süreç çok şeffaftı. 🇸🇩  
+Luigi Bianchi: Rapidi e professionali. 🇮🇹  
+Maria Popova: Çok memnun kaldım. 🇷🇺  
+Kaan Güneş: Belgelerim eksiksizdi. 🇹🇷  
+Said El Amrani: Güzel hizmet. 🇲🇦  
+Tanja Müller: Danke! 🇩🇪  
+Chen Wei: Vize süreci sorunsuzdu. 🇨🇳  
+Nina Petrović: Çok iyi ekip. 🇷🇸  
+Helena Novak: Tavsiye ediyorum. 🇸🇮  
+Kadir Yılmaz: Destek harikaydı. 🇹🇷  
+Yoon Ji-Ho: Teşekkürler! 🇰🇷  
+Amir Rahimi: Hizmet çok kaliteli. 🇮🇷  
+Stephanie Adams: Good communication. 🇺🇸  
+Pedro Gómez: Muy buen servicio. 🇲🇽  
+Berkay Topçu: Süreç çok açık anlatıldı. 🇹🇷  
+Anastasia Smirnova: Çok başarılıydı. 🇷🇺  
+Zeynep Çelik: Herkese tavsiye ederim. 🇹🇷  
+Marc Dubois: Travail impeccable. 🇫🇷  
+Barış Kılıç: Hızlı ve etkili. 🇹🇷  
+Lina Ahmed: Thank you all! 🇪🇬  
+Javier Sanchez: Buen trato recibido. 🇪🇸  
+Yelda Baş: İlgi harikaydı. 🇹🇷  
+Olga Morozova: Çok iyi ekip. 🇷🇺  
+Andrés Silva: Excelente atención. 🇨🇱  
+Özge Karaca: Yardımcı oldular. 🇹🇷  
+Karim Nasri: Süreç çok netti. 🇸🇾  
+Emine Yalçın: Çok memnun kaldım. 🇹🇷  
+Patricia Brown: Excellent service! 🇺🇸  
+Lars Hansen: Tak for hjælpen. 🇩🇰  
+Farida Rahman: Hizmet çok hızlıydı. 🇧🇩  
+</marquee>
 </div>
 
 <!-- BİZ KİMİZ Kutusu -->
 <div style="max-width: 800px; margin: 40px auto; padding: 30px; background: linear-gradient(135deg, #ff7e5f, #feb47b); border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); text-align: center; color: white;">
   <h2 style="font-size: 28px; font-weight: bold; margin-bottom: 15px;">BİZ KİMİZ?</h2>
   <p style="font-size: 16px; line-height: 1.7;">
-    2005 yılından bu yana, insanların hayallerine kavuşmasını sağlayan bir danışmanlık firmasıyız. USAPro Vize Consulting LLC olarak, 20 yıla yaklaşan tecrübemizle binlerce kişinin vize başvurusunu başarıyla sonuçlandırdık. Her başvuru sahibini bir yol arkadaşı olarak görür, başvurusundan onayına kadar sürecin her adımında yanında oluruz. <br><br>
+    2005 yılından bu yana, insanların hayallerine kavuşmasını sağlayan bir danışmanlık firmasıyız. USAPro Vize Consulting LLC olarak, 20 yıla yaklaşan tecrübemizle binlerce kişinin vize başvurusunu başarıyla sonuçlandırdık. Her başvuru sahibini bir yol arkadaşı olarak görür, başvurusundan onayına kadar sürecin her adımında yanında oluruz.<br><br>
     Amerika’dan İngiltere’ye, İtalya’dan Kanada’ya kadar birçok ülkeye gerçekleştirdiğimiz başarılı yönlendirmeler ve özel danışmanlıklarla, başvuruların karmaşık dünyasını sizin için basitleştiriyoruz. Her ofisimizde alanında uzman, güler yüzlü ve çözüm odaklı danışmanlarımız sizlere özel çözümler üretir.<br><br>
     Biz, sadece evrak hazırlayan bir kurum değil, insanlara yeni bir hayat kapısı açan rehberleriz. Güvenilirlik, şeffaflık ve samimiyet ilkelerimizden asla ödün vermeyiz. Bize başvurduğunuz anda, artık yalnız değilsiniz. Bize güvenin, gerisini bize bırakın.
   </p>
 </div>
-</div>
 
-  <!-- Yorum ve Beğeni Alanı -->
+<!-- Yorum ve Beğeni Alanı -->
 <div style="margin-top: 30px; background-color: #2d2f3a; padding: 20px; border-radius: 12px; color: white;">
   <h3 style="text-align: center; margin-bottom: 10px;">Yorum Bırakın</h3>
   <textarea id="yorumInput" rows="4" style="width: 100%; padding: 10px; border-radius: 8px; border: none; resize: none;"></textarea>
@@ -152,10 +174,6 @@
     }
   }
 </script>
-
-
-
-  
 
 <div class="footer-offices" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 40px auto;">
   <div class="office-group" style="background-color: #3c3b6e; color: white; padding: 20px; border-radius: 12px; width: 300px;">
@@ -203,10 +221,8 @@
   </div>
 </div>
 
-  
-
-  <div class="footer-whatsapp" style="position: fixed; bottom: 20px; right: 20px; z-index: 999;">
-  <a href="https://wa.me/17827172374" target="_blank">
+<div class="footer-whatsapp" style="position: fixed; bottom: 20px; right: 20px; z-index: 999;">
+  <a href="https://wa.me/+17827172374" target="_blank">
     <img src="public/images/whatsapp.icon.jpg" alt="WhatsApp" style="width: 60px; height: 60px; border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.4);">
   </a>
 </div>
@@ -215,10 +231,12 @@
 <script>
   const images = document.querySelectorAll(".fade-image");
   let index = 0;
+  images.forEach((img, i) => {
+    img.style.display = i === 0 ? "block" : "none";
+  });
   setInterval(() => {
-    images.forEach((img, i) => {
-      img.style.display = i === index ? "block" : "none";
-    });
+    images[index].style.display = "none";
     index = (index + 1) % images.length;
-  }, 3000);
+    images[index].style.display = "block";
+  }, 5000);
 </script>

@@ -247,10 +247,10 @@ Farida Rahman: Hizmet çok hızlıydı. 🇧🇩  
     font-size: 40px !important;
   }
   .footer-offices ul li {
-    font-size: 24px !important;
+    font-size: 27px !important;
   }
   .footer-offices h4 {
-    font-size: 26px !important;
+    font-size: 30px !important;
   }
   .footer-whatsapp img {
     width: 120px !important;
@@ -272,10 +272,10 @@ Farida Rahman: Hizmet çok hızlıydı. 🇧🇩  
     font-size: 40px !important;
   }
   .footer-offices ul li {
-    font-size: 20px !important;
+    font-size: 27px !important;
   }
   .footer-offices h4 {
-    font-size: 22px !important;
+    font-size: 30px !important;
   }
   .footer-whatsapp img {
     width: 120px !important;
@@ -314,10 +314,10 @@ Farida Rahman: Hizmet çok hızlıydı. 🇧🇩  
     font-size: 80px !important;
   }
   .footer-offices ul li {
-    font-size: 18px !important;
+    font-size: 27px !important;
   }
   .footer-offices h4 {
-    font-size: 20px !important;
+    font-size: 30px !important;
   }
   .footer-whatsapp img {
     width: 100px !important;

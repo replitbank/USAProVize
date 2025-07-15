@@ -1,3 +1,7 @@
 [build]
   command = ""
   publish = "."
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+  condition = "false"

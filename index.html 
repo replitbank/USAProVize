@@ -1,7 +1,7 @@
 <!-- Footer Alanı -->
 <footer class="footer-container" style="background-color: #1c1f2b; padding: 40px 20px;">
   <div class="footer-header" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; background: linear-gradient(135deg, #ff512f, #dd2476); padding: 20px; border-radius: 12px;">
-  <img src="public/images/<img src="public/images/logo.png" alt="USAPro Vize Logo" class="footer-logo" style="width: 100px; height: auto;">
+  <img src="public/images/logo.png" alt="USAPro Vize Logo" class="footer-logo" style="width: 100px; height: auto;">
   <span style="font-size: 24px; font-weight: bold; color: #ffffff;">USAPro Vize Consulting LLC</span>
 </div>
 

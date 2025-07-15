@@ -226,7 +226,28 @@ Farida Rahman: Hizmet çok hızlıydı. 🇧🇩  
     <img src="public/images/whatsapp.icon.jpg" alt="WhatsApp" style="width: 60px; height: 60px; border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.4);">
   </a>
 </div>
-</footer>
+<style>
+@media (max-width: 600px) {
+  .footer-buttons a {
+    font-size: 14px !important;
+    padding: 12px 18px !important;
+  }
+  .fade-image {
+    width: 90% !important;
+    height: auto !important;
+    margin: auto !important;
+  }
+  .footer-reviews marquee {
+    font-size: 14px !important;
+  }
+}
+  .footer-whatsapp img {
+    width: 80px !important;
+    height: 80px !important;
+  }
+}</style>
+
+$1
 
 <script>
   const images = document.querySelectorAll(".fade-image");

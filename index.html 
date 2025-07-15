@@ -245,6 +245,34 @@ Farida Rahman: Hizmet çok hızlıydı. 🇧🇩  
     width: 80px !important;
     height: 80px !important;
   }
+}  .footer-logo {
+    width: 160px !important;
+  }
+  .footer-header span {
+    font-size: 36px !important;
+  }
+  .footer-buttons a {
+    font-size: 18px !important;
+    padding: 16px 24px !important;
+  }
+  .fade-image {
+    width: 100% !important;
+    height: auto !important;
+    max-width: 400px !important;
+  }
+  .footer-reviews marquee {
+    font-size: 18px !important;
+  }
+  .footer-offices ul li {
+    font-size: 18px !important;
+  }
+  .footer-offices h4 {
+    font-size: 20px !important;
+  }
+  .footer-whatsapp img {
+    width: 100px !important;
+    height: 100px !important;
+  }
 }</style>
 
 $1

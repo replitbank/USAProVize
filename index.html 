@@ -311,7 +311,7 @@ Farida Rahman: Hizmet çok hızlıydı. 🇧🇩  
     max-width: 400px !important;
   }
   .footer-reviews marquee {
-    font-size: 18px !important;
+    font-size: 80px !important;
   }
   .footer-offices ul li {
     font-size: 18px !important;
